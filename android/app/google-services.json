@@ -1,0 +1,267 @@
+{
+  "project_info": {
+    "project_number": "1020988429029",
+    "firebase_url": "https://myden-60f0a.firebaseio.com",
+    "project_id": "myden-60f0a",
+    "storage_bucket": "myden-60f0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020988429029:android:ddfeeed2c44fbe4461ba0c",
+        "android_client_info": {
+          "package_name": "com.example.mlkit_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020988429029-ngap99orj8sv0nuhjp95omhi3ahd2s29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxjI8Z6RI5P2WDDbqELas3e9mX0P-Bm4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020988429029-ngap99orj8sv0nuhjp95omhi3ahd2s29.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020988429029-1npu4t42pdotiibe7kv6epectndm51lu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myden.guard"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020988429029:android:e0fa095de467246b61ba0c",
+        "android_client_info": {
+          "package_name": "com.frolicSports.my_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020988429029-q33hrd4vim83f6qimri77efugdtsu1kt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frolicSports.my_application",
+            "certificate_hash": "2fa1e3725da7e56989c3b63ad08c171a3fd2ad36"
+          }
+        },
+        {
+          "client_id": "1020988429029-ngap99orj8sv0nuhjp95omhi3ahd2s29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxjI8Z6RI5P2WDDbqELas3e9mX0P-Bm4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020988429029-ngap99orj8sv0nuhjp95omhi3ahd2s29.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020988429029-1npu4t42pdotiibe7kv6epectndm51lu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myden.guard"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020988429029:android:24f9275cfdfb3e8861ba0c",
+        "android_client_info": {
+          "package_name": "com.frolicSports.newapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020988429029-jgejj4l8ldpr2ksrna2ju0a1pv1a5s2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frolicSports.newapplication",
+            "certificate_hash": "be70c9bf8955c6c5f90e2654c3389dd83715d606"
+          }
+        },
+        {
+          "client_id": "1020988429029-ngap99orj8sv0nuhjp95omhi3ahd2s29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxjI8Z6RI5P2WDDbqELas3e9mX0P-Bm4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020988429029-ngap99orj8sv0nuhjp95omhi3ahd2s29.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020988429029-1npu4t42pdotiibe7kv6epectndm51lu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myden.guard"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020988429029:android:52b70dd45e75c6d261ba0c",
+        "android_client_info": {
+          "package_name": "com.myden.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020988429029-s1nma4lls0ts66i9l6o2enrak9nq6j6n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myden.admin",
+            "certificate_hash": "be70c9bf8955c6c5f90e2654c3389dd83715d606"
+          }
+        },
+        {
+          "client_id": "1020988429029-ngap99orj8sv0nuhjp95omhi3ahd2s29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxjI8Z6RI5P2WDDbqELas3e9mX0P-Bm4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020988429029-ngap99orj8sv0nuhjp95omhi3ahd2s29.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020988429029-1npu4t42pdotiibe7kv6epectndm51lu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myden.guard"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020988429029:android:303922205ab001f861ba0c",
+        "android_client_info": {
+          "package_name": "com.myden.guard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020988429029-rfs42evl6qpm85o8t0regsu7ldq7pf9k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myden.guard",
+            "certificate_hash": "be70c9bf8955c6c5f90e2654c3389dd83715d606"
+          }
+        },
+        {
+          "client_id": "1020988429029-ngap99orj8sv0nuhjp95omhi3ahd2s29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxjI8Z6RI5P2WDDbqELas3e9mX0P-Bm4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020988429029-ngap99orj8sv0nuhjp95omhi3ahd2s29.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020988429029-1npu4t42pdotiibe7kv6epectndm51lu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myden.guard"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020988429029:android:64edd81e07e6bc2c61ba0c",
+        "android_client_info": {
+          "package_name": "com.myden.residents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020988429029-g76m0df77oat47n3mabn3gir0nt1ut4q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myden.residents",
+            "certificate_hash": "be70c9bf8955c6c5f90e2654c3389dd83715d606"
+          }
+        },
+        {
+          "client_id": "1020988429029-ngap99orj8sv0nuhjp95omhi3ahd2s29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxjI8Z6RI5P2WDDbqELas3e9mX0P-Bm4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020988429029-ngap99orj8sv0nuhjp95omhi3ahd2s29.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020988429029-1npu4t42pdotiibe7kv6epectndm51lu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.myden.guard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
